@@ -1,0 +1,21 @@
+NOME DO DRIVER:
+
+PostgreSQL
+
+Host:
+ec2-3-209-39-2.compute-1.amazonaws.com
+
+Port:
+5432
+
+Database:
+ddicrkstiqstgj
+
+User:
+bxvredcjergsxm
+
+Password:
+2260849245320f353c84e3baae118358a917c773061a1048b6df17915626383f
+
+JDBC URL:
+jdbc:postgresql://ec2-3-209-39-2.compute-1.amazonaws.com:5432/ddicrkstiqstgj
